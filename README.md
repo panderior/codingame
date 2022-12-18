@@ -1,4 +1,4 @@
-![banner](imgs/📟_CodingGame_Solutions.png)
+<h4 align="center"> ![banner](imgs/📟_CodingGame_Solutions.png) </h4>
 <!-- <img src="imgs/_CodingGame_Solutions.png" align="center" alt="Banner" /> -->
 ---
 <h4 align="center">
