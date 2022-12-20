@@ -1,4 +1,4 @@
-<h4 align="center"> <img src="📟_CodingGame_Solutions.png" align="center" alt="Banner" /> </h4>
+<h4 align="center"> <img src="imgs/📟_CodingGame_Solutions.png" align="center" alt="Banner" /> </h4>
 <br/>  <br/>  
 <p align="center">
     <img src="https://img.shields.io/github/languages/count/panderior/codingame" alt="langs" />
