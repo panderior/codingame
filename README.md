@@ -11,15 +11,12 @@ CodinGame is a platform where people learn to improve thier coding skills throug
 
 
 
-## Algorithm Puzzles</h2>
----
+## Algorithm Puzzles
 text here ...
 
-## AI Bot Challengs</h2>
----
+## AI Bot Challengs
 text here
 
-### Licence
----
+## Licence
 This the codes in this repository are placed under MIT Licence.
 
